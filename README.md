@@ -38,13 +38,11 @@ Top 3 des processus les plus gourmands
 
 📂 Organisation du projet :
 
-monitor.py → script Python qui récupère toutes les informations système
+script.py → script Python qui récupère toutes les informations système
 
-template.html → modèle HTML
+style.css → style de la page
 
-template.css → style de la page
-
-index.html → page finale générée automatiquement
+projet.html → page finale générée automatiquement dans le script
 
 README.md → documentation du projet
 
