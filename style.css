@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+}
+
+header.button{
+    padding: 20px;
+
+}
